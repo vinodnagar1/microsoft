@@ -1,0 +1,73 @@
+.one1
+{
+outline:1px solid black;
+width:50%;
+height: 300px;
+float:left;
+}
+
+.one2
+{
+outline:1px solid black;
+width:50%;
+height: 300px;
+float:left;
+}
+
+.one3
+{
+outline:1px solid black;
+width:50%;
+height: 300px;
+float:left;
+}
+
+.one4
+{
+outline:1px solid black;
+width:50%;
+height: 300px;
+float:left;
+}
+
+@media only screen and (max-width:600px) {
+
+    .one1
+{
+outline:1px solid black;
+width:100%;
+height: 300px;
+float:left;
+background-color:red;
+}
+
+.one2
+{
+outline:1px solid black;
+width:100%;
+height: 300px;
+float:left;
+background-color: aliceblue;
+}
+
+.one3
+{
+outline:1px solid black;
+width:50%;
+height: 300px;
+float:left;
+background-color: aquamarine;
+}
+
+.one4
+{
+outline:1px solid black;
+width:50%;
+height: 300px;
+float:left;
+}
+
+
+
+    
+}
